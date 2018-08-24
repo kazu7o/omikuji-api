@@ -10,8 +10,8 @@ api.config['JSON_AS_ASCII'] = False
 auth = HTTPBasicAuth()
 
 users = {
-  "user1": "wtfrukm",
-  "user2": "stfubgo"
+  "user1": "xzy9uh46",
+  "user2": "ue2cbky8"
 }
 
 @api.route('/')
